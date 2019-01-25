@@ -152,3 +152,5 @@ npm i -D standard-version
   ...
 }
 ```
+
+查看更新日志 [CHANGELOG.md](CHANGELOG.md)
