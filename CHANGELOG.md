@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/auven/git-cz-simple-example/compare/v2.0.2...v2.1.0) (2019-01-26)
+
+
+### Features
+
+* **index.js:** 新功能四 ([5365a19](https://github.com/auven/git-cz-simple-example/commit/5365a19))
+* **index.js:** 添加新功能三 ([5f25613](https://github.com/auven/git-cz-simple-example/commit/5f25613))
+
+
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/auven/git-cz-simple-example/compare/v2.0.1...v2.0.2) (2019-01-26)
 
