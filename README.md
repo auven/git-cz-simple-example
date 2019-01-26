@@ -83,7 +83,7 @@ CI：对CI配置文件和脚本的更改（示例范围：travis、circle、brow
 
 输入 `\n` ，如下
 ``` bash
-- 修复 bug 一\n- 修复 bug 二
+- 修复 bug1 \n- 修复 bug2
 ```
 
 ## 使用 commitlint 来进行 git commit 的规范校验
