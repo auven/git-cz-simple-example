@@ -1,6 +1,6 @@
 {
   "name": "git-cz-simple-example",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "commitizen 和 commitlint 的简单示例。",
   "main": "index.js",
   "private": true,
