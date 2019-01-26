@@ -79,6 +79,13 @@ CI：对CI配置文件和脚本的更改（示例范围：travis、circle、brow
 ？此更改是否影响任何未解决的问题？（y/n）
 ```
 
+### 较长描述换行
+
+输入 `\n` ，如下
+``` bash
+- 修复 bug 一\n- 修复 bug 二
+```
+
 ## 使用 commitlint 来进行 git commit 的规范校验
 
 [官方地址](https://github.com/marionebl/commitlint)
